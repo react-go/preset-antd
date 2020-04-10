@@ -1,0 +1,17 @@
+{
+  "name": "@react-go/preset-antd",
+  "version": "0.1.0",
+  "description": "React Go preset for Ant Design",
+  "main": "index.js",
+  "author": "pengtikui <949828390@qq.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/react-go/preset-antd"
+  },
+  "dependencies": {
+    "babel-plugin-import": "^1.13.0",
+    "less": "^3.11.1",
+    "less-loader": "^5.0.0"
+  }
+}
